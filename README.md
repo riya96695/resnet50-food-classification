@@ -14,5 +14,5 @@ Transfer learning using pretrained ResNet50 on Food-101 dataset.
 - Key concept: Skip connections (residual blocks)
 
 ## Results
-- Train Accuracy: 1.77%
+- Test Accuracy: 3.59%
 - Note: Low accuracy due to only 2 epochs — needs more training
